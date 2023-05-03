@@ -23,7 +23,7 @@ export default function Home() {
 			<div className={styles.content}>
 				<form>
 					<h2 style={customFont.style} className={styles.title}>
-						Who do you want to ChatWith to?
+						Who do you want to ChatWith?
 					</h2>
 					<input
 						style={customFont.style}
